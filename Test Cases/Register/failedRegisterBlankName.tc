@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failedRegisterBlankName</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <testCaseGuid>92193da0-61cd-464f-9381-18cd64b40cf1</testCaseGuid>
+</TestCaseEntity>

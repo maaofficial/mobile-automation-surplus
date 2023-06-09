@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failedRegisterEmailAlreadyExist</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <testCaseGuid>8bf60bad-5226-4f41-9809-37b119a3c951</testCaseGuid>
+</TestCaseEntity>
